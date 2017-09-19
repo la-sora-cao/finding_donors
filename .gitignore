@@ -4,3 +4,4 @@ cifar-10-batches-py
 __pycache__
 image_classification.data-00000-of-00001
 data
+.ipynb_checkpoints
